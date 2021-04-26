@@ -13,8 +13,11 @@ export default function Form({takeValue}) {
     const handleSubmit = (e) => {
         e.preventDefault();
         const number = Number(value);
-        takeValue(number);
         setValue(0);
+        if(number < 0) {
+            return;
+        }
+        takeValue(number);
     }
 
     return(
