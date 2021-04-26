@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## React Redux Example
 
-[http://rc-react-use-context.surge.sh/](http://rc-react-use-context.surge.sh/)
+[http://rc-react-redux-counter.surge.sh/](http://rc-react-redux-counter.surge.sh/)
