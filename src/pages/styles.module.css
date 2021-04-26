@@ -1,0 +1,9 @@
+.page {
+    padding: 10px 0;
+}
+
+.page h2 {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 5px 0 10px;
+}

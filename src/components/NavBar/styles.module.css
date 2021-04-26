@@ -1,0 +1,25 @@
+.nav {
+    padding: 10px 0 14px;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+.list {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.list li {
+    margin-right:15px;
+}
+
+.list a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.list .active {
+    color: rgb(5, 176, 233);
+}
